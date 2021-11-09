@@ -1,6 +1,4 @@
 # robot_descriptions
 
 
-run : roslaunch custom_bringup ur5_robotiq.launch 
-
-change the frame to "base" and import the robot model in RVIZ
+Contains the description for UR5 with Robotiq 85 gripper. Description for Robotiq 85 was cloned from https://github.com/philwall3/UR5-with-Robotiq-Gripper-and-Kinect.git . 
